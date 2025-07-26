@@ -21,15 +21,4 @@ Building Explainable AI-driven financial models
 
 ![Dan's GitHub stats](https://github-readme-stats-ochre-delta.vercel.app/api?username=danjloveless&count_private=true&show_icons=true&theme=dark)
 
-Show Top 10 Languages:
-markdown![Top Languages](https://github-readme-stats-ochre-delta.vercel.app/api/top-langs/?username=danjloveless&count_private=true&theme=dark&layout=compact&langs_count=10)
-Show Top 15 Languages:
-markdown![Top Languages](https://github-readme-stats-ochre-delta.vercel.app/api/top-langs/?username=danjloveless&count_private=true&theme=dark&layout=compact&langs_count=15)
-Show Top 20 Languages (Maximum):
-markdown![Top Languages](https://github-readme-stats-ochre-delta.vercel.app/api/top-langs/?username=danjloveless&count_private=true&theme=dark&layout=compact&langs_count=20)
-Different Layouts for Many Languages
-Donut with Many Languages:
-markdown![Top Languages](https://github-readme-stats-ochre-delta.vercel.app/api/top-langs/?username=danjloveless&count_private=true&theme=dark&layout=donut&langs_count=15)
-Vertical with Many Languages:
-markdown![Top Languages](https://github-readme-stats-ochre-delta.vercel.app/api/top-langs/?username=danjloveless&count_private=true&theme=dark&langs_count=15)
-
+![Top Languages](https://github-readme-stats-ochre-delta.vercel.app/api/top-langs/?username=danjloveless&count_private=true&theme=dark&layout=compact&langs_count=20)
