@@ -21,18 +21,15 @@ Building Explainable AI-driven financial models
 
 ![Dan's GitHub stats](https://github-readme-stats-ochre-delta.vercel.app/api?username=danjloveless&count_private=true&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats-ochre-delta.vercel.app/api/top-langs/?username=danjloveless&count_private=true&theme=dark)
+Show Top 10 Languages:
+markdown![Top Languages](https://github-readme-stats-ochre-delta.vercel.app/api/top-langs/?username=danjloveless&count_private=true&theme=dark&layout=compact&langs_count=10)
+Show Top 15 Languages:
+markdown![Top Languages](https://github-readme-stats-ochre-delta.vercel.app/api/top-langs/?username=danjloveless&count_private=true&theme=dark&layout=compact&langs_count=15)
+Show Top 20 Languages (Maximum):
+markdown![Top Languages](https://github-readme-stats-ochre-delta.vercel.app/api/top-langs/?username=danjloveless&count_private=true&theme=dark&layout=compact&langs_count=20)
+Different Layouts for Many Languages
+Donut with Many Languages:
+markdown![Top Languages](https://github-readme-stats-ochre-delta.vercel.app/api/top-langs/?username=danjloveless&count_private=true&theme=dark&layout=donut&langs_count=15)
+Vertical with Many Languages:
+markdown![Top Languages](https://github-readme-stats-ochre-delta.vercel.app/api/top-langs/?username=danjloveless&count_private=true&theme=dark&langs_count=15)
 
-Vertical Layout (Default)
-markdown![Top Languages](https://github-readme-stats-ochre-delta.vercel.app/api/top-langs/?username=danjloveless&count_private=true&theme=dark)
-Donut Chart
-markdown![Top Languages](https://github-readme-stats-ochre-delta.vercel.app/api/top-langs/?username=danjloveless&count_private=true&theme=dark&layout=donut)
-Donut Chart (Vertical)
-markdown![Top Languages](https://github-readme-stats-ochre-delta.vercel.app/api/top-langs/?username=danjloveless&count_private=true&theme=dark&layout=donut-vertical)
-Pie Chart
-markdown![Top Languages](https://github-readme-stats-ochre-delta.vercel.app/api/top-langs/?username=danjloveless&count_private=true&theme=dark&layout=pie)
-Compact with Limited Languages (Shorter)
-markdown![Top Languages](https://github-readme-stats-ochre-delta.vercel.app/api/top-langs/?username=danjloveless&count_private=true&theme=dark&layout=compact&langs_count=6)
-Hide Specific Languages
-markdown![Top Languages](https://github-readme-stats-ochre-delta.vercel.app/api/top-langs/?username=danjloveless&count_private=true&theme=dark&layout=compact&hide=html,css)
-The donut or pie layouts are usually more compact than the horizontal bar format. Which style do you prefer?
