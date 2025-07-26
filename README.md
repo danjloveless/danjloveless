@@ -22,3 +22,4 @@ Building Explainable AI-driven financial models
 ![Dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=danjloveless&show_icons=true&theme=dark&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danjloveless&layout=compact&theme=dark&hide_border=true)
+
